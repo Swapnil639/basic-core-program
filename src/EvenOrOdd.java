@@ -11,5 +11,5 @@ public class EvenOrOdd {
             System.out.print(n+" is Odd number");
 
         }
-    }
+}
 
