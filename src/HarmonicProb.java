@@ -14,4 +14,5 @@ public class HarmonicProb {
         }
         System.out.println(" Harmonic value is :"+sum);
     }
+
 }
