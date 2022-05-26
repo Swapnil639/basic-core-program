@@ -6,6 +6,7 @@ public class AlphabetVowelOrNot {
 
         Scanner sc = new Scanner(System.in);
         char ch = sc.next().charAt(0);
+        
         //String str = sc.next();
        /* switch (alphabet){
             case "a" : System.out.println("a is Vowel");break;
